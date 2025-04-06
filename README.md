@@ -1,0 +1,1 @@
+Starts nice. Counts how many times opponent betrays me. Makes them pay back more than they took. Gives a break every 7 rounds. Always betrays in last rounds. Like a shark: am am!
